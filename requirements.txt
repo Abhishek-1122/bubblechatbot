@@ -24,10 +24,10 @@ random2==1.0.1
 tqdm==4.65.0
 tensorflow==2.2.0
 tflearn==0.5.0
-Werkzeug==1.0.1
+Werkzeug==2.2.3
 protobuf==3.20.0
 template-render==0.1.0
-
+scipy==1.4.1
 h5py==2.10.0
 urllib3==1.22
 django-model-utils==4.3.1
