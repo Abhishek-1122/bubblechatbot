@@ -22,4 +22,4 @@ protobuf==3.20.0
 template-render==0.1.0
 escape==1.1
 h5py==2.10.0
-urllib3==1.2.2
+urllib3==1.22
