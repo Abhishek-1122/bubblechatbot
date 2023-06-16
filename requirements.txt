@@ -5,6 +5,7 @@ emoji==2.5.0
 Flask 2.3.2
 gunicorn==20.1.0
 itsdangerous==2.1.2
+escape==1.1
 jinja2==3.1.2
 joblib==1.2.0
 Keras==2.4.3
@@ -22,7 +23,7 @@ tflearn==0.5.0
 Werkzeug==1.0.1
 protobuf==3.20.0
 template-render==0.1.0
-escape==1.1
+
 h5py==2.10.0
 urllib3==1.22
 django-model-utils==4.3.1
