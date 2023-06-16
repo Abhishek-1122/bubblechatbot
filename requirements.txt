@@ -23,3 +23,10 @@ template-render==0.1.0
 escape==1.1
 h5py==2.10.0
 urllib3==1.22
+django-model-utils==4.3.1
+sequestial==1.0.0
+layers==0.1.5
+conv==0.2
+keras-visualizer==3.1.2
+cnnutils==0.0.57
+
